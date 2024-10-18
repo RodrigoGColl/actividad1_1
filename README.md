@@ -5,7 +5,7 @@
 
 ## Apartados de los trabajos IAW:
 
-- [Ejercicio 1](https://github.com/RodrigoGColl/prueba_Rodrigo/blob/main/Ejercicio1.md)
+- [Ejercicio 1](unidad1/Ejercicio1.md)
   
 - [Ejercicio 2](https://github.com/RodrigoGColl/prueba_Rodrigo/blob/main/Ejercicio2.1.md)
   
